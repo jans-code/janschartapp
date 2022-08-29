@@ -8,7 +8,7 @@ How to get it running:
 2. Install streamlit by typing into cli: `py -m pip install streamlit`
 3. Download all the files (Code -> Download ZIP) and unzip to a folder of your liking.
 4. Run the app by typing: `streamlit run app.py`
-(5.) If step 4 fails try running the app by typing into cli: `py -m streamlit run app.py`
+5. (Just in case step 4 didn't work) try running the app by typing into cli: `py -m streamlit run app.py`
 
 Alternatively you can view the app running online here:
 
@@ -24,7 +24,7 @@ Wie man es ans laufen bekommt:
 2. Streamlit über die Kommandozeile installieren: `py -m pip install streamlit`
 3. Alles runterladen (oben rechts über Code -> Download ZIP) und in einen Ordner entpacken.
 4. Die App starten über die Kommandozeile: `streamlit run app.py`
-(5.) Sollte Schritt 4 scheitern alternativ mal probieren: `py -m streamlit run app.py`
+5. (falls 4 nicht geklappt hat) Alternativ mal probieren: `py -m streamlit run app.py`
 
 Ansonsten kann man die App auch hier online nutzen:
 
