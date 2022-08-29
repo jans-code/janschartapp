@@ -16,7 +16,7 @@ https://jans-code-janschartapp-app-g4sb5i.streamlitapp.com
 
 ---
 
-Ein simple Streamlit app für die deutschen Charts.
+Eine simple Streamlit App für die deutschen Charts.
 
 Wie man es ans laufen bekommt:
 
