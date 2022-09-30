@@ -82,7 +82,7 @@ def build_table(chart_list, include_title, include_youtube):
             table += f"[![AMZN Link](https://www.janarman.de/chartapp/chart_amzn.png)]"
             table += f"(https://www.amazon.de/s?k={chart_list[i]['search_string']}) "
         search_elements = [f"[![SPTFY Link](https://www.janarman.de/chartapp/chart_spotify.png)]",
-                            f"(https://open.spotify.com/search/{chart_list[i]['search_string2']}) ",
+                            f"(https://open.spotify.com/search/results/{chart_list[i]['search_string2']}) ",
                             f"[![APPLM Link](https://www.janarman.de/chartapp/chart_applm.png)]",
                             f"(https://music.apple.com/de/search?term={chart_list[i]['search_string']}) ",
                             f"[![AMZNM Link](https://www.janarman.de/chartapp/chart_amznmsc.png)]",
